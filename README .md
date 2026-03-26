@@ -1,7 +1,7 @@
 # 📘 Digital Literacy Portfolio
 
 ## 👤 Student Information
-- **Name:** Naman  
+- **Name:** Naman  Tiwari
 - **Registration Number:** 25BCE10080  
 - **Course Code:** CSE0001  
 - **Course Title:** Digital Literacy  
